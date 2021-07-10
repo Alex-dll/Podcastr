@@ -39,6 +39,18 @@ $ yarn dev
 
 The app will be available for access on your browser at `http://localhost:3000`
 
+## Features
+
+- Request to API 
+- Listen to an awesome development podcast
+
+  
+## Used tools 🪚
+-  Scss
+-  React / Next
+- Axios
+
+
 
 This application was made during the NWL course of Rocketseat
 
