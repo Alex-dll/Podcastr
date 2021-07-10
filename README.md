@@ -4,6 +4,10 @@
   Podcastr is a platform built for podcast broadcasting.
 </h4>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alex-dll/Podcastr/master/public/app-preview.png" />
+</div>
+
 ## Tecnologies
 
 This project was developed using cutting edge front-end technologies.
